@@ -1,4 +1,3 @@
-
 SELECT 
     p.ProductName, 
     c.CategoryName
