@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace Geometry
 {
     public interface IForm
